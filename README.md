@@ -2,7 +2,7 @@
 
 # Introduction
 > [!NOTE]
-> Brewcode is a custom theme base on Catpuccin theme mix with syntax highlighting style of xcode theme.
+> Brewcode is a custom theme base on Catppuccin theme mix with syntax highlighting style of xcode theme.
 > This Theme Originated from a my custom config on zed editor that mixed a catppuccin zed version with vscode xcode theme extensions.
 
 ## Why this theme not use overwriting colors?
