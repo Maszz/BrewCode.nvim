@@ -16,8 +16,8 @@ Finally, I hope you enjoy the theme and if you have any suggestion or issue, fee
 you can follow rest of catpuccin theme documentation below for custom a theme.
 
 > [!WARNING]
-> I don't touch any of catpuccin theme code, i just forked it and make some custom color and syntax highlighting to it(Tree-sitter).
-> You just use this like any of catpuccin theme.
+> I don't touch any of catppuccin theme code, i just forked it and make some custom color and syntax highlighting to it(Tree-sitter).
+> You just use this like any of catppuccin theme.
 <!-- panvimdoc-ignore-end -->
 
 # Features
