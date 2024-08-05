@@ -28,7 +28,7 @@ you can follow rest of catpuccin theme documentation below for custom a theme.
 - Integrations with lsp, treesitter and [a bunch of plugins](https://github.com/catppuccin/nvim#integrations)
 - Supports for [many other applications](https://github.com/catppuccin/catppuccin)
 
-# Installation(Only chnage packages import from this repo)
+# Installation(Only change packages import from this repo)
 
 [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
