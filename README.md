@@ -28,21 +28,21 @@ you can follow rest of catpuccin theme documentation below for custom a theme.
 - Integrations with lsp, treesitter and [a bunch of plugins](https://github.com/catppuccin/nvim#integrations)
 - Supports for [many other applications](https://github.com/catppuccin/catppuccin)
 
-# Installation
+# Installation(Only chnage packages import from this repo)
 
 [lazy.nvim](https://github.com/folke/lazy.nvim)
 ```lua
-{ "catppuccin/nvim", name = "catppuccin", priority = 1000 }
+{  "Maszz/BrewCode.nvim", name = "catppuccin", priority = 1000 }
 ```
 
 [packer.nvim](https://github.com/wbthomason/packer.nvim)
 ```lua
-use { "catppuccin/nvim", as = "catppuccin" }
+use { "Maszz/BrewCode.nvim", as = "catppuccin" }
 ```
 
 [vim-plug](https://github.com/junegunn/vim-plug)
 ```vim
-Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
+Plug "Maszz/BrewCode.nvim", { 'as': 'catppuccin' }
 ```
 
 # Usage
